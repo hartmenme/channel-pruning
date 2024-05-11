@@ -1,4 +1,4 @@
-# Channel Pruning for Accelerating Very Deep Neural Networks
+# Channel Pruning for Accelerating Very Deep Neural Networks(art)
 
 ![image](https://github.com/ethanhe42/channel-pruning/assets/10027339/8a7793a8-927f-49bc-84cf-0d33f76d3ae4)
 
